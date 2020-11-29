@@ -1,1 +1,1 @@
-# cruello
+#[ModKit Wiki](../../wiki)
